@@ -11,6 +11,7 @@ defineProps<{
   </label>
 </template>
 
+
 <style scoped>
 label {
   cursor: pointer;
